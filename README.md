@@ -1,5 +1,7 @@
 # Pediatric Hospital Management System
 
+![imgProject](https://github.com/DevGusIT/eng-soft-gh/assets/149635482/cb9b44c7-4b38-4e16-ae79-66c02519a401)
+
 ## Features
 
 - **Patient Management**: Track patient records, medical history, and appointments.
