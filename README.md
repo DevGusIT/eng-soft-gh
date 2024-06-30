@@ -1,6 +1,5 @@
 # Pediatric Hospital Management System
 
-![Exemplo de captura de tela do sistema de gestão hospitalar](C:\Users\gusta\OneDrive\Imagens\Capturas de tela)
 ## Features
 
 - **Patient Management**: Track patient records, medical history, and appointments.
