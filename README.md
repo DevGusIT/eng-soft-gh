@@ -24,7 +24,7 @@ To get a local copy up and running, follow these steps:
    git clone https://github.com/your_username/eng-soft-gh.git
 
 2. **Set up the database:**
-Import the SQL schema provided in database/schema.sql into your MySQL database.
+   - Import the SQL schema provided in database/schema.sql into your MySQL database.
 
 3. **Configure the application:**
   - Modify config.php to set up your database connection parameters.
