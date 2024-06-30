@@ -40,7 +40,7 @@ To get a local copy up and running, follow these steps:
   - Open your web browser and navigate to http://localhost:8080/Gestão Hospitalar (or your configured port and path).
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+Developed by [DevGusIT](https://www.linkedin.com/in/gustavo-moreno-8a925b26a/).
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
